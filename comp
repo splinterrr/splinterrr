@@ -22,6 +22,7 @@ class Company:
         print(f"Список сотрудников компании. {self.name}:")
         for employee in self.employees:
             print(f"Имя: {employee.name}, ID: {employee.id}")
+
 # Создание компании
 company = Company("Наша Компания")
 # Добавление сотрудников
