@@ -36,8 +36,7 @@ company.add_employee(employee2)
 company.list_employees()
 # Удаление сотрудника
 company.remove_employee(1)
-# Просмотр обновленного списка сотрудников/
+# Просмотр обновленного списка сотрудников
 company.list_employees()
 ..
-,,,,,
-tyityuityuityui
+
